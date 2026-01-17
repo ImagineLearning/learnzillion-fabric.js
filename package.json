@@ -72,7 +72,7 @@
     "prettier:write": "prettier --write ."
   },
   "optionalDependencies": {
-    "canvas": "^2.8.0",
+    "canvas": "^3.2.1",
     "jsdom": "^19.0.0"
   },
   "devDependencies": {
